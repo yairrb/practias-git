@@ -2,6 +2,10 @@
 Proyecto para trabajar con git
 
 pendientes:
-- Agregar un .gitignore
--  Agregar nuevos ejemplos en el repositorio
+
+- [X] Agregar un .gitignore
+
+- [X] Agregar nuevos ejemplos en el repositorio
+
+- [ ] Crear una nueva rama
 
